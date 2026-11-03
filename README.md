@@ -34,7 +34,7 @@ Aplicativo desenvolvido em equipe para centralizar medicamentos, agenda, check-i
 
 Atuei em fluxos de voz, integrações por API, comunicação via WhatsApp, backend e decisões de segurança para que ações sensíveis dependam de confirmação explícita. O projeto foi apresentado na NEXT 2026 e conquistou o **2º lugar**.
 
-> O repositório é privado por se tratar de um projeto em equipe com integrações reais. Estou preparando um case técnico público, sem dados sensíveis, para apresentar arquitetura e contribuições.
+> O repositório principal é privado por se tratar de um projeto em equipe com integrações reais. Veja o [case técnico público do EloCare](https://github.com/LucaaasMdeLima/EloCare_Study), preparado sem dados sensíveis.
 
 ### Automação e integração de sistemas
 
